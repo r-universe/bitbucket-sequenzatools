@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "sequenza"]
+	path = sequenza
+	url = https://bitbucket.org/sequenzatools/sequenza
+	shallow = true
+	registered = true
